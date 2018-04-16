@@ -18,6 +18,7 @@ dotfiles_files:
   - .macos
   - .vim
   - .vimrc
+  - .spacemacs
   - .tmux.conf
   - .zshrc
   - .zshrc.pre-oh-my-zsh
@@ -31,6 +32,7 @@ homebrew_installed_packages:
   - cowsay
   - diff-so-fancy
   - dos2unix
+  - emacs
   - exiftool
   - fd # alternative to find: https://github.com/sharkdp/fd
   - ffmpeg
@@ -62,6 +64,7 @@ homebrew_installed_packages:
   - reattach-to-user-namespace # for tmux
   - ripgrep # fast search, replace `pt`
   - ruby # overrite the default installation
+  - rust
   - source-to-image
   - speedtest-cli
   - sqlite
