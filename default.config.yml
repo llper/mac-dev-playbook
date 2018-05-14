@@ -19,6 +19,7 @@ dotfiles_files:
   - .vim
   - .vimrc
   - .spacemacs
+  - .taskrc
   - .tmux.conf
   - .zshrc
   - .zshrc.pre-oh-my-zsh
@@ -70,6 +71,7 @@ homebrew_installed_packages:
   - sqlite
   - ssh-copy-id
   - stormssh
+  - task
   - terraform
   - thefuck
   - tmux
